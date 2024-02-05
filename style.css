@@ -102,3 +102,22 @@ nav ul li {
 
     font-size: 18px;
 }
+
+
+
+
+/* Information Section stuff */
+
+
+#informationSection {
+    background-color: #F9FAF8;
+
+}
+
+
+#informationTitle {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: center;
+}
