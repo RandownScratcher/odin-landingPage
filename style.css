@@ -54,10 +54,22 @@ nav ul {
 
     /* Hero stuff */
 
-header section {
+#heroSection {
+
+
+
     display: flex;
     align-items: center;
+    justify-content: center;
 
+    gap: 2.5em;
+
+    padding: 5em 0;
+
+}
+
+#heroSectionLeft {
+    max-width: 450px;
 }
 
 #heroTitle {
