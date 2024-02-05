@@ -68,3 +68,13 @@ header section {
     width: 600px;
     height: auto;
 }
+
+#heroButton {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px 30px;
+
+    font-size: 18px;
+}
