@@ -121,3 +121,22 @@ nav ul li {
     color: #1F2937;
     text-align: center;
 }
+
+
+#infoCardContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    gap: 1em;
+}
+
+.infoCard {
+    border: solid #3882F6 5px;
+    border-radius: 10px;
+
+    aspect-ratio: 1;
+
+    width: 200px;
+    height: 200px;
+}
