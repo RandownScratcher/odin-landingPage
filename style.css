@@ -41,6 +41,10 @@ nav ul {
 
     /* Hero stuff */
 
+header section {
+    display: flex;
+}
+
 #heroImage {
     width: 400px;
     height: auto;
