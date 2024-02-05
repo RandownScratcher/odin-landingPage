@@ -37,3 +37,11 @@ nav ul {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+
+    /* Hero stuff */
+
+#heroImage {
+    width: 400px;
+    height: auto;
+}
