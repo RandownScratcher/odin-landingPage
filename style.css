@@ -12,3 +12,16 @@ header {
     background-color: #1F2937;
 
 }
+
+nav {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+
+    gap: 2em;
+}
