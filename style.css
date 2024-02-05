@@ -51,6 +51,7 @@ nav ul {
 
 header section {
     display: flex;
+    align-items: center;
 }
 
 #heroTitle {
