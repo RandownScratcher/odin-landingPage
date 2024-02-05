@@ -8,6 +8,14 @@ body {
 
 }
 
+/* Classes */
+
+.distanceLR {
+    margin: 0 7.5em 0 7.5em;
+}
+
+
+
 /* header stuff */
 
 header {
