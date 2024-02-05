@@ -125,10 +125,10 @@ nav ul li {
 
 #infoCardContainer {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
 
-    gap: 1em;
+    gap: 4em;
 }
 
 .infoCard {
@@ -137,6 +137,6 @@ nav ul li {
 
     aspect-ratio: 1;
 
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
