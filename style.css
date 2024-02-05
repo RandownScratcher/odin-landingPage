@@ -53,7 +53,17 @@ header section {
     display: flex;
 }
 
+#heroTitle {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+#heroPar {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 #heroImage {
-    width: 400px;
+    width: 600px;
     height: auto;
 }
