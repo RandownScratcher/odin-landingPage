@@ -51,6 +51,10 @@ nav ul {
     color: #E5E7EB;
 }
 
+nav ul li {
+    list-style: none;
+}
+
 
     /* Hero stuff */
 
