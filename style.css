@@ -8,9 +8,18 @@ body {
 
 }
 
+/* header stuff */
+
 header {
     background-color: #1F2937;
 
+}
+
+    /* nav stuff*/
+
+nav h1 {
+
+    font-size: 24px;
 }
 
 nav {
@@ -24,4 +33,7 @@ nav ul {
     display: flex;
 
     gap: 2em;
+
+    font-size: 18px;
+    color: #E5E7EB;
 }
