@@ -1,3 +1,8 @@
+* {
+    border: solid red 5px;
+}
+
+
 body {
     margin: 0;
 
@@ -52,11 +57,14 @@ nav ul {
 header section {
     display: flex;
     align-items: center;
+
 }
 
 #heroTitle {
     font-size: 48px;
     font-weight: bold;
+
+    margin: 0;
 }
 
 #heroPar {
