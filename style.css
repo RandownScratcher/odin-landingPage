@@ -146,9 +146,17 @@ nav ul li {
     width: 250px;
     height: 250px;
 
+    text-align: center;
+
     aspect-ratio: 1;
 }
 
 .infoCardImg {
-    width: 200px;
+    border: solid #3882F6 5px;
+    border-radius: 10px;
+
+    aspect-ratio: 1;
+
+    width: 250px;
+    height: 250px;
 }
