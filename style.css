@@ -138,7 +138,7 @@ nav ul li {
 
     color:#1F2937;
 
-    gap: 4em;
+    gap: 6em;
 }
 
 
@@ -149,6 +149,7 @@ nav ul li {
     text-align: center;
 
     aspect-ratio: 1;
+
 }
 
 .infoCardImg {
