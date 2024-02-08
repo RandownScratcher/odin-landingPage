@@ -139,12 +139,3 @@ nav ul li {
     gap: 4em;
 }
 
-.infoCard {
-    border: solid #3882F6 5px;
-    border-radius: 10px;
-
-    aspect-ratio: 1;
-
-    width: 150px;
-    height: 150px;
-}
