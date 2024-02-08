@@ -136,6 +136,19 @@ nav ul li {
     justify-content: center;
     flex-wrap: wrap;
 
+    color:#1F2937;
+
     gap: 4em;
 }
 
+
+.infoCard {
+    width: 250px;
+    height: 250px;
+
+    aspect-ratio: 1;
+}
+
+.infoCardImg {
+    width: 200px;
+}
