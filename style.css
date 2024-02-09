@@ -161,3 +161,15 @@ nav ul li {
     width: 200px;
     height: 200px;
 }
+
+/* Quote Section stuff */
+
+#quoteSection {
+    background-color: #E5E7EB;
+}
+
+#quoteSectionPar {
+    font-size: 36px;
+    color: #1F2937;
+    
+}
