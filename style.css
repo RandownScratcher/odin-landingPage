@@ -173,7 +173,13 @@ nav ul li {
 #quoteSectionPar {
     font-size: 36px;
     color: #1F2937;
+
+
     
+}
+
+#quoteSectionPar em {
+    font-weight: 300;
 }
 
 #quoteSectionAuthor {
