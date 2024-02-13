@@ -183,6 +183,7 @@ nav ul li {
     align-items: center;
 
     justify-content: center;
+    width: 825px;
 }
 
 #quoteSectionPar {
@@ -190,12 +191,17 @@ nav ul li {
     color: #1F2937;
     font-weight: 300;
 
-
-    
 }
 
 #quoteSectionAuthor {
     color: #1F2937;
     font-size: 18px;
     font-weight: bold;
+
+    align-self: flex-end;
+}
+
+
+#quoteSectionAuthor, #quoteSectionPar {
+    margin: 0;
 }
