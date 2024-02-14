@@ -205,3 +205,13 @@ nav ul li {
 #quoteSectionAuthor, #quoteSectionPar {
     margin: 0;
 }
+
+/* Call to action section(ctaSection) */
+
+#ctaSection {
+    display: flex;
+}
+
+#ctaSectionBox {
+    background-color: #3882F6;
+}
