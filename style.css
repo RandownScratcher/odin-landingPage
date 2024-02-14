@@ -228,6 +228,14 @@ nav ul li {
     width: 1000px;
 }
 
+#ctaSectionBox div h1 {
+    font-weight: bold;
+}
+
+#ctaSectionBox div h1, p {
+    margin: 0;
+}
+
 #ctaButton {
     background-color: #3882F6;
     padding: 5px 20px;
