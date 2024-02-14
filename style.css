@@ -218,7 +218,8 @@ nav ul li {
     background-color: #3882F6;
 
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center;
 
     width: 1000px;
 }
