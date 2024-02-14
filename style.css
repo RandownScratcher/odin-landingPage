@@ -247,3 +247,12 @@ nav ul li {
     border-radius: 5px;
     font-size: 18px;
 }
+
+
+/* footer stuff */
+
+footer  {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 2em;
+}
