@@ -227,3 +227,13 @@ nav ul li {
 
     width: 1000px;
 }
+
+#ctaButton {
+    background-color: #3882F6;
+    padding: 5px 20px;
+    color: white;
+    border-color: white;
+    border-style: solid;
+    font-weight: bold;
+    border-radius: 5px;
+}
