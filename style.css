@@ -217,6 +217,8 @@ nav ul li {
 }
 
 #ctaSectionBox {
+    padding: 20px;
+    border-radius: 5px;
     background-color: #3882F6;
 
     display: flex;
